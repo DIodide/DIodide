@@ -10,4 +10,4 @@ Some other things that I am interested in:
 Feel free to email me at ibraheem@princeton.edu for academic inquiries or ibraheem.amin2@gmail.com for professional inquiry.
 
 
-I'm currently working on [my website!](https://ibraheemamin.dev), [BetSmart](https://www.betsmart.co/), and [EVAL!](https://evalgaming.com)
+I'm currently working on [my website!](https://ibraheemamin.dev), [Yonder](https://tryyonder.com/), and [EVAL!](https://evalgaming.com)
