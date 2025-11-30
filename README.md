@@ -4,13 +4,13 @@ Hi! I'm Ibraheem, a current computer science undergraduate student at Princeton 
 
 Some other things that I am interested in:
 ➼ Representing code and design decisions as nodes in a graph and vector embeddings
-➼ Building to reduce or use "dead" compute or "dead" memory for shared compute and serverless
-➼ Ways to measure "similarity" between arbitrary and graph-like data sources
+➼ Building to reduce or use "dead" compute or "dead" memory for shared compute and serverless architectures
 
 Feel free to email me at ibraheem@princeton.edu for academic inquiries or ibraheem.amin2@gmail.com for professional inquiry.
 
 
-I'm currently working on [my website!](https://ibraheemamin.dev), [Yonder](https://tryyonder.com/), and [EVAL!](https://evalgaming.com)
+I'm currently working on [Project BlockWarriors](https://blockwarriors.ai), [Yonder](https://tryyonder.com/), and [EVAL!](https://evalgaming.com)
+Learn more about me [here](https://ibraheemamin.dev) 
 
 **Languages**  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
