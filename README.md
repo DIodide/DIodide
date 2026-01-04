@@ -5,6 +5,7 @@ Hi! I'm Ibraheem, a current computer science undergraduate student at Princeton 
 Some other things that I am interested in:
 
 ➼ Representing code and design decisions as a tree, and then using said tree to support inference tasks
+
 ➼ Building to reduce or use "dead" compute for serverless architectures
 
 Feel free to email me at ibraheem@princeton.edu for academic inquiries or ibraheem.amin2@gmail.com for professional inquiry.
