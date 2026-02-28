@@ -8,7 +8,7 @@ Some other things that I am interested in:
 Feel free to email me at ibraheem@princeton.edu for academic inquiries or ibraheem.amin2@gmail.com for professional inquiry.
 
 
-I'm currently working on [Project BlockWarriors](https://blockwarriors.ai), [Yonder](https://tryyonder.com/), and [EVAL!](https://evalgaming.com)
+I'm currently working on [Project BlockWarriors](https://blockwarriors.ai), [Harness](https://github.com/DIodide/Harness), and [EVAL!](https://evalgaming.com)
 Learn more about me [here](https://ibraheemamin.dev) 
 
 **Languages**  
