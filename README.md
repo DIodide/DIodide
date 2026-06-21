@@ -10,16 +10,16 @@ or shoot me a DM at my [LinkedIn](https://linkedin.com/in/ibraheem-amin)
 
 [![Website](https://img.shields.io/badge/ibraheemamin.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ibraheemamin.dev)
 
-# Technologies I've Worked With
+### Technologies I've Worked With
 
-## Cloud Providers
+#### Cloud Providers
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
----
-## Languages
+
+#### Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
@@ -28,8 +28,8 @@ or shoot me a DM at my [LinkedIn](https://linkedin.com/in/ibraheem-amin)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
----
-## Frameworks & Libraries
+
+#### Frameworks & Libraries
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -40,9 +40,7 @@ or shoot me a DM at my [LinkedIn](https://linkedin.com/in/ibraheem-amin)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
 
----
-
-## Infrastructure & Data
+#### Infrastructure & Data
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Firecracker](https://img.shields.io/badge/Firecracker-FF7A00?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://firecracker-microvm.github.io/)
@@ -53,9 +51,7 @@ or shoot me a DM at my [LinkedIn](https://linkedin.com/in/ibraheem-amin)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Daytona](https://img.shields.io/badge/Daytona-1B1F23?style=for-the-badge&logoColor=white)](https://www.daytona.io/)
 
----
-
-## ⚡ Development Stack
+#### Development Stack
 
 [![Harness (by me)](https://img.shields.io/badge/Harness%20by%20me!-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIodide/Harness)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
@@ -64,7 +60,3 @@ or shoot me a DM at my [LinkedIn](https://linkedin.com/in/ibraheem-amin)
 [![Cmux](https://img.shields.io/badge/Cmux-1E1E1E?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/manaflow-ai/cmux)
 [![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)](https://authjs.dev/)
 [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
-
-- **[Harness!](https://github.com/DIodide/Harness)** — personal dev tooling
-- **Cmux**, **cursor-agent**, **Claude Code**, **Codex**, **Hermes Agent** — agentic coding
-- **Auth.js / Clerk** — authentication
