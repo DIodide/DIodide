@@ -1,14 +1,9 @@
-## Hi there 👋
-
-Hi! I'm Ibraheem, a current computer science undergraduate student at Princeton University. I am interested in systems design, LLM interoperability strategies, and web infrastructure. If there is any opportunity in the intersection of these things, please do reach out!
-
-Some other things that I am interested in:
-➼ Building to reduce or use "dead" compute 
-
+Hi! I'm Ibraheem, a current rising junior majoring in computer science @ Princeton University.
 Feel free to email me at ibraheem@princeton.edu for academic inquiries or ibraheem.amin2@gmail.com for professional inquiry.
 
+my main interests are infra, web, serverless, product-driven-dev.
 
-I'm currently working on [Project BlockWarriors](https://blockwarriors.ai), [Harness](https://github.com/DIodide/Harness), and [EVAL!](https://evalgaming.com)
+I'm currently working on [Harness!](https://github.com/DIodide/Harness)
 Learn more about me [here](https://ibraheemamin.dev) 
 
 **Languages**  
@@ -30,6 +25,4 @@ Learn more about me [here](https://ibraheemamin.dev)
 [![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)](https://trpc.io/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
