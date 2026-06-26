@@ -2,7 +2,7 @@
 I'm Ibraheem! a current rising junior majoring in Computer Science @ **Princeton University**.
 
 My main interests are **infra**, **web**, **serverless**, and **product-driven development**.
-I'm currently working on [Harness!](https://github.com/DIodide/Harness)
+I'm currently working on [Harness!](https://github.com/DIodide/Harness) @ [harness.nz](https://harness.nz)
 Learn more about me [here](https://ibraheemamin.dev) 
 
 Feel free to reach out for any and all inquiries at [ibraheem@princeton.edu](mailto:ibraheem@princeton.edu) or [ibraheem.amin2@gmail.com](mailto:ibraheem.amin2@gmail.com)
